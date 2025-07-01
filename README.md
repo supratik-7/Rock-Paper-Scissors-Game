@@ -14,6 +14,15 @@ A simple **Rock, Paper, Scissors** game built with **HTML**, **CSS**, and **Java
 
 To run this project, you just need a modern web browser. No additional installations required.
 
+## 🚀 Deployment
+
+This Rock Paper Scissors game is deployed using **Vercel** and is live at:
+
+🔗 **[Live Demo](https://rock-paper-scissors-game-dpm2.vercel.app)**
+
+
+
+
 ## Project Structure
 
 ```
